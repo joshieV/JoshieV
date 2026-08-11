@@ -8,7 +8,7 @@
 ---
 
 ## About me
-I’m an incoming BSc Software Engineering student with a Level 3 Extended Diploma in Computer Science. I enjoy building front-end apps and learning backend fundamentals with Spring Boot. I’m actively practicing Data Structures & Algorithms (DSA) to improve my problem solving.
+I’m an incoming BSc Software Engineering student with a Level 3 Extended Diploma in Computer Science. I enjoy building front-end apps and learning backend fundamentals with Spring Boot. I’m actively practicing Data Structures & Algorithms (DSA) on LeetCode to improve my problem solving.
 
 Currently: starting my BSc in Software Engineering.  
 Learning: TypeScript, Spring Boot (Java), DSA, and deployment best practices.  
@@ -18,10 +18,22 @@ Contact: joshievaccaro@gmail.com
 ---
 
 ## Tech stack
-- Languages: `HTML`, `CSS`, `JavaScript`, `TypeScript` (learning), `Java`, `Python`, `C++` (learning)  
-- Front-end: `React`, `Tailwind CSS`  
-- Back-end / Frameworks: `Spring Boot` (learning)  
-- Databases & tooling: `PostgreSQL`, `Docker`, `GitHub Actions`, `Git`
+
+### Languages & runtimes
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square) (learning) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&style=flat-square) (learning)
+
+### Front-end
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&style=flat-square)
+
+### Back-end & frameworks
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&style=flat-square) (learning)
+
+### Databases & tooling
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square) (learning) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square)
 
 ---
 
