@@ -8,9 +8,9 @@
 ---
 
 ## About me
-I’m an incoming BSc Software Engineering student with a Level 3 Extended Diploma in Computer Science. I enjoy building front-end apps and learning backend fundamentals with Spring Boot. I’m actively building projects and practicing algorithms.
+I’m an incoming BSc Software Engineering student at the University of Leicester with a Level 3 Extended Diploma in Computer Science. I enjoy building front-end apps and learning backend fundamentals with Spring Boot. I’m actively building projects and practicing algorithms.
 
-Currently: starting my BSc in Software Engineering.  
+Currently: starting my BSc in Software Engineering at the University of Leicester.  
 Learning: TypeScript, Spring Boot (Java), DSA, and deployment best practices.  
 Open to: internships, beginner-friendly collaborations, and open-source contributions.  
 Contact: joshievaccaro@gmail.com
