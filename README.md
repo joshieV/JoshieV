@@ -1,14 +1,14 @@
-# Hi there — I'm joshieV 👋
+# Hi there I'm joshieV 👋
 
 > Incoming BSc Software Engineering student • Level 3 Extended Diploma in Computer Science  
-> Building with Java, Python & React — learning TypeScript, Spring Boot, and DSA
+> Building with Java, Python & React learning TypeScript, Spring Boot, and DSA
 
-[![GitHub followers](https://img.shields.io/github/followers/joshieV?label=Follow&logo=github&style=flat-square)](https://github.com/joshieV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/joshuawillis06/) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/joshiepz/)
+[![GitHub followers](https://img.shields.io/github/followers/joshieV?label=Follow&logo=github&style=flat-square)](https://github.com/joshieV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conn[...]
 
 ---
 
 ## About me
-I’m an incoming BSc Software Engineering student with a Level 3 Extended Diploma in Computer Science. I enjoy building front-end apps and learning backend fundamentals with Spring Boot. I’m actively practicing Data Structures & Algorithms (DSA) on LeetCode to improve my problem solving.
+I’m an incoming BSc Software Engineering student with a Level 3 Extended Diploma in Computer Science. I enjoy building front-end apps and learning backend fundamentals with Spring Boot. I’m ac[...]
 
 Currently: starting my BSc in Software Engineering.  
 Learning: TypeScript, Spring Boot (Java), DSA, and deployment best practices.  
@@ -21,11 +21,11 @@ Contact: joshievaccaro@gmail.com
 
 ### Languages & runtimes
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square) (learning) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&style=flat-square) (learning)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat-square) ![JavaScript](https://img.shields.io/badg[...]
 
 ### Front-end
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&style=flat-square[...]
 
 ### Back-end & frameworks
 
@@ -33,7 +33,7 @@ Contact: joshievaccaro@gmail.com
 
 ### Databases & tooling
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square) (learning) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square) (learning) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square) ![Git[...]
 
 ---
 
@@ -52,4 +52,4 @@ Actively solving algorithm problems on LeetCode and building small portfolio pro
 
 ---
 
-Thanks for dropping by — follow for updates as I publish projects and share DSA solutions!
+Thanks for dropping by follow for updates as I publish projects and share DSA solutions!
