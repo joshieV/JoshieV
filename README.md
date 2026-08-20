@@ -71,7 +71,7 @@ I'm a software engineering student from the UK who likes building things that ac
 
 **Back-end &amp; data**
 
-<img src="https://skillicons.dev/icons?i=spring,postgres&theme=dark" alt="Spring, PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=spring,django,flask,fastapi,postgres&theme=dark" alt="Spring, Django, Flask, FastAPI, PostgreSQL" />
 <img src="assets/numpy.svg" width="48" height="48" alt="NumPy" />
 
 **Tools**
