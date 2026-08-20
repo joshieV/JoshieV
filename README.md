@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Joshua%20V&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20United%20Kingdom&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Joshua V" />
+<img src="assets/header.svg" width="100%" alt="Joshua V — Software Engineering, United Kingdom" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=45&lines=BSc+Software+Engineering+%40+Leicester;Java+%E2%80%A2+Python+%E2%80%A2+React;Grinding+DSA%2C+one+problem+at+a+time;Open+to+internships+%26+collaborations" alt="BSc Software Engineering at Leicester — Java, Python, React" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=BSc+Software+Engineering+%40+Leicester;Java+%E2%80%A2+Python+%E2%80%A2+React;Grinding+DSA%2C+one+problem+at+a+time;Open+to+internships+%26+collaborations" alt="BSc Software Engineering at Leicester — Java, Python, React" />
 
 <br/>
 
-<a href="https://github.com/joshieV"><img src="https://img.shields.io/github/followers/joshieV?label=Follow&logo=github&style=for-the-badge&color=6366F1&labelColor=0D1117" alt="Follow on GitHub" /></a>
+<a href="https://github.com/joshieV"><img src="https://img.shields.io/github/followers/joshieV?label=Follow&logo=github&style=for-the-badge&color=7C3AED&labelColor=0D1117" alt="Follow on GitHub" /></a>
 <a href="https://www.linkedin.com/in/joshuawillis06/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/joshiepz/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode" /></a>
-<a href="mailto:joshievaccaro@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+<a href="mailto:joshievaccaro@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-FF7A18?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=joshieV&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=joshieV&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:06B6D4&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:A855F7,100:FF7A18&height=3&section=header" width="100%" alt="" />
 
 ## 👋&nbsp; About me
 
@@ -55,7 +55,7 @@ I'm a software engineering student from the UK who likes building things that ac
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:06B6D4&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:A855F7,100:FF7A18&height=3&section=header" width="100%" alt="" />
 
 ## 🛠️&nbsp; Tech stack
 
@@ -79,7 +79,7 @@ I'm a software engineering student from the UK who likes building things that ac
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:06B6D4&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:A855F7,100:FF7A18&height=3&section=header" width="100%" alt="" />
 
 ## 📌&nbsp; Featured projects
 
@@ -94,7 +94,7 @@ I'm a software engineering student from the UK who likes building things that ac
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:06B6D4&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:A855F7,100:FF7A18&height=3&section=header" width="100%" alt="" />
 
 ## 📊&nbsp; GitHub stats
 
@@ -117,20 +117,20 @@ I'm a software engineering student from the UK who likes building things that ac
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=joshieV&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-  <img src="https://streak-stats.demolab.com?user=joshieV&hide_border=true&background=FFFFFF&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F" height="180" alt="Contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=joshieV&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF7A18&currStreakLabel=FF7A18&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+  <img src="https://streak-stats.demolab.com?user=joshieV&hide_border=true&background=FFFFFF&stroke=A855F7&ring=A855F7&fire=FF7A18&currStreakLabel=FF7A18&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F" height="180" alt="Contribution streak" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joshieV&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=06B6D4&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20activity" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshieV&bg_color=FFFFFF&color=24292F&line=8B5CF6&point=06B6D4&area=true&area_color=A5B4FC&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joshieV&bg_color=0D1117&color=C9D1D9&line=A855F7&point=FF7A18&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshieV&bg_color=FFFFFF&color=24292F&line=A855F7&point=FF7A18&area=true&area_color=C4B5FD&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph" />
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:8B5CF6,100:06B6D4&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:A855F7,100:FF7A18&height=3&section=header" width="100%" alt="" />
 
 ## 🤝&nbsp; Let's connect
 
@@ -151,4 +151,4 @@ If you're building something interesting, my inbox is open.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by — github.com/joshieV" />
