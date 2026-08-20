@@ -76,7 +76,7 @@ I'm a software engineering student from the UK who likes building things that ac
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea&theme=dark" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm,webstorm&theme=dark" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA, PyCharm, WebStorm" />
 
 </div>
 
