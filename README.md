@@ -65,9 +65,10 @@ I'm a software engineering student from the UK who likes building things that ac
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css&theme=dark" alt="Java, Python, C++, JavaScript, TypeScript, HTML, CSS" />
 
-**Front-end**
+**Front-end &amp; UI**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="React, Tailwind CSS" />
+<img src="assets/javafx.svg" width="48" height="48" alt="JavaFX" />
 
 **Back-end &amp; data**
 
