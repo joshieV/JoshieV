@@ -41,7 +41,7 @@ Contact: joshievaccaro@gmail.com
 
 ### Databases & tooling
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square) (learning) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square) (learning) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&style=flat-square) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&style=flat-square)
 
 ---
 
