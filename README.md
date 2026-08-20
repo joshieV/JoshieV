@@ -63,7 +63,7 @@ I'm a software engineering student from the UK who likes building things that ac
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" alt="Java, Python, JavaScript, TypeScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css&theme=dark" alt="Java, Python, C++, JavaScript, TypeScript, HTML, CSS" />
 
 **Front-end**
 
@@ -77,6 +77,10 @@ I'm a software engineering student from the UK who likes building things that ac
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm,webstorm&theme=dark" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA, PyCharm, WebStorm" />
+
+**Want to learn**
+
+<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" />
 
 </div>
 
