@@ -73,6 +73,8 @@ I'm a software engineering student from the UK who likes building things that ac
 
 <img src="https://skillicons.dev/icons?i=spring,postgres&theme=dark" alt="Spring, PostgreSQL" />
 
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=FF7A18&labelColor=0D1117" alt="NumPy" />
+
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea&theme=dark" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA" />
@@ -112,13 +114,6 @@ I'm a software engineering student from the UK who likes building things that ac
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshieV&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshieV&theme=github" height="200" alt="Most commit language" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=joshieV&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF7A18&currStreakLabel=FF7A18&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-  <img src="https://streak-stats.demolab.com?user=joshieV&hide_border=true&background=FFFFFF&stroke=A855F7&ring=A855F7&fire=FF7A18&currStreakLabel=FF7A18&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F" height="180" alt="Contribution streak" />
 </picture>
 
 <br/><br/>
