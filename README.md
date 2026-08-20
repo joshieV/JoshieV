@@ -33,7 +33,7 @@ Contact: joshievaccaro@gmail.com
 
 ### Front-end
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&style=flat-square)
 
 ### Back-end & frameworks
 
