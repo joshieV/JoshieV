@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Joshua%20Willis&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20United%20Kingdom&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Joshua Willis" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Joshua%20V&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Software%20Engineering%20%E2%80%A2%20United%20Kingdom&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Joshua V" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=45&lines=BSc+Software+Engineering+%40+Leicester;Java+%E2%80%A2+Python+%E2%80%A2+React;Grinding+DSA%2C+one+problem+at+a+time;Open+to+internships+%26+collaborations" alt="BSc Software Engineering at Leicester — Java, Python, React" />
 
