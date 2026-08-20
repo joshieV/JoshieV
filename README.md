@@ -76,11 +76,11 @@ I'm a software engineering student from the UK who likes building things that ac
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm,webstorm&theme=dark" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA, PyCharm, WebStorm" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm,webstorm,clion&theme=dark" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA, PyCharm, WebStorm, CLion" />
 
 **Want to learn**
 
-<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" />
+<img src="https://skillicons.dev/icons?i=go,aws&theme=dark" alt="Go, AWS" />
 
 </div>
 
