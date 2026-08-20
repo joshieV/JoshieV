@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Joshua V — Software Engineering, United Kingdom" />
+<img src="assets/header.svg" width="100%" alt="Joshua V. Software Engineering, United Kingdom" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=BSc+Software+Engineering+%40+Leicester;Java+%E2%80%A2+Python+%E2%80%A2+React;Grinding+DSA%2C+one+problem+at+a+time;Open+to+internships+%26+collaborations" alt="BSc Software Engineering at Leicester — Java, Python, React" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=BSc+Software+Engineering+%40+Leicester;Java+%E2%80%A2+Python+%E2%80%A2+React;Grinding+DSA%2C+one+problem+at+a+time;Open+to+internships+%26+collaborations" alt="BSc Software Engineering at Leicester. Java, Python, React" />
 
 <br/>
 
@@ -30,7 +30,7 @@ public class Joshua {
 }
 ```
 
-I'm a software engineering student from the UK who likes building things that actually run. Right now I'm splitting my time between **front-end apps**, **backend fundamentals**, and **algorithm practice** — turning coursework theory into projects I can point at.
+I'm a software engineering student from the UK who likes building things that actually run. Right now I'm splitting my time between **front-end apps**, **backend fundamentals**, and **algorithm practice**, turning coursework theory into projects I can point at.
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ I'm a software engineering student from the UK who likes building things that ac
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **[discord-clone](https://github.com/joshieV/discord-clone)** ⭐ | A Discord-style chat app — my biggest build so far | `Java` |
+| **[discord-clone](https://github.com/joshieV/discord-clone)** ⭐ | A Discord-style chat app, my biggest build so far | `Java` |
 | **[neetcode-submissions](https://github.com/joshieV/neetcode-submissions)** | Every NeetCode.io problem I've solved, kept public | `Java` |
 | **[Stopwatch_and_Clock_App](https://github.com/joshieV/Stopwatch_and_Clock_App)** | Desktop stopwatch &amp; clock with a clean UI | `Python` |
 | **[helloworld-calculator](https://github.com/joshieV/helloworld-calculator)** | The world's most useless calculator, built for pure fun | `JavaScript` |
@@ -141,8 +141,8 @@ If you're building something interesting, my inbox is open.
 
 <br/><br/>
 
-<i>Thanks for dropping by — follow along as I publish projects and share DSA solutions.</i>
+<i>Thanks for dropping by. Follow along as I publish projects and share DSA solutions.</i>
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by — github.com/joshieV" />
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by. github.com/joshieV" />
