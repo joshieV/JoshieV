@@ -10,7 +10,7 @@
 > Incoming BSc Software Engineering student • Level 3 Extended Diploma in Computer Science  
 > Building with Java, Python & React learning TypeScript, Spring Boot, and DSA
 
-[![GitHub followers](https://img.shields.io/github/followers/joshieV?label=Follow&logo=github&style=flat-square)](https://github.com/joshieV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/joshuawillis06/)
+[![GitHub followers](https://img.shields.io/github/followers/joshieV?label=Follow&logo=github&style=flat-square)](https://github.com/joshieV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/joshuawillis06/) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/joshiepz/)
 
 ---
 
