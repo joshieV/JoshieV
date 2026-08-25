@@ -27,6 +27,7 @@ public class Joshua {
     String[] learning  = {"TypeScript", "Spring Boot", "DSA", "Deployment"};
     String   goal      = "Future FAANG SWE";
     boolean  openTo    = true; // internships, collabs, open source
+    boolean  goingInsane? = true;
 }
 ```
 
