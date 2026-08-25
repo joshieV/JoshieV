@@ -93,7 +93,7 @@ I'm a software engineering student from the UK who likes building things that ac
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **[discord-clone](https://github.com/joshieV/discord-clone)** ⭐ | A Discord-style chat app, my biggest build so far | `Java` |
+| **[discord-clone](https://github.com/joshieV/discord-clone)** | A Discord-style chat app, my biggest build so far | `Java` |
 | **[neetcode-submissions](https://github.com/joshieV/neetcode-submissions)** | Every NeetCode.io problem I've solved, kept public | `Java` |
 | **[Stopwatch_and_Clock_App](https://github.com/joshieV/Stopwatch_and_Clock_App)** | Desktop stopwatch &amp; clock with a clean UI | `Python` |
 | **[helloworld-calculator](https://github.com/joshieV/helloworld-calculator)** | The world's most useless calculator, built for pure fun | `JavaScript` |
@@ -145,8 +145,6 @@ If you're building something interesting, my inbox is open.
 <a href="mailto:joshievaccaro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
-
-<i>Thanks for dropping by. Follow along as I publish projects and share DSA solutions.</i>
 
 </div>
 
