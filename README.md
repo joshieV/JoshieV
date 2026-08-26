@@ -46,7 +46,7 @@ I'm a software engineering student from the UK who likes building things that ac
 </td>
 <td width="50%" valign="top">
 
-**🌱&nbsp; Next up**
+**🌱&nbsp; What I'm aiming to master next**
 
 - TypeScript + Spring Boot
 - Data structures & algorithms
