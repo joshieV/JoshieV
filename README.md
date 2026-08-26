@@ -94,8 +94,8 @@ I'm a software engineering student from the UK who likes building things that ac
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **[discord-clone](https://github.com/joshieV/discord-clone)** | A Discord-style chat app, my biggest build so far | `Java` |
-| **[neetcode-submissions](https://github.com/joshieV/neetcode-submissions)** | Every NeetCode.io problem I've solved, kept public | `Java` |
+| **[discord-clone](https://github.com/joshieV/discord-clone)** | A Discord-style chat app, my biggest build so far | `Java, Typescript, React` |
+| **[neetcode-submissions](https://github.com/joshieV/neetcode-submissions)** | Every NeetCode.io problem I've solved, kept public | `Java, Python` |
 | **[Stopwatch_and_Clock_App](https://github.com/joshieV/Stopwatch_and_Clock_App)** | Desktop stopwatch &amp; clock with a clean UI | `Python` |
 | **[helloworld-calculator](https://github.com/joshieV/helloworld-calculator)** | The world's most useless calculator, built for pure fun | `JavaScript` |
 
