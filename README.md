@@ -132,7 +132,7 @@ I'm a software engineering student from the UK who likes building things that ac
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:A855F7,100:FF7A18&height=3&section=header" width="100%" alt="" />
 
-## 🤝&nbsp; Let's connect
+## 🤝&nbsp; Let's connect!
 
 <div align="center">
 
