@@ -21,7 +21,7 @@
 
 ```java
 public class Joshua {
-    String   education = "Incoming BSc Software Engineering @ University of Leicester";
+    String   education = "BSc Software Engineering, First year student @ University of Leicester";
     String   completed = "Level 3 Extended Diploma in Computer Science";
     String[] building  = {"Java", "Python", "React"};
     String[] learning  = {"TypeScript", "Spring Boot", "DSA", "Deployment"};
