@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="GitHub statistics for joshieV">
+  <defs>
+    <linearGradient id="num" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.00" stop-color="#FFFFFF"/>
+      <stop offset="0.34" stop-color="#E9D5FF"/>
+      <stop offset="0.52" stop-color="#7C3AED"/>
+      <stop offset="0.56" stop-color="#3B0764"/>
+      <stop offset="0.78" stop-color="#D946EF"/>
+      <stop offset="1.00" stop-color="#F5D0FE"/>
+    </linearGradient>
+    <linearGradient id="irid" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.00" stop-color="#3B0764" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#4F46E5" stop-opacity="0.8"/>
+      <stop offset="0.38" stop-color="#A855F7" stop-opacity="0.95"/>
+      <stop offset="0.54" stop-color="#D946EF" stop-opacity="1"/>
+      <stop offset="0.72" stop-color="#7C3AED" stop-opacity="0.9"/>
+      <stop offset="0.88" stop-color="#4F46E5" stop-opacity="0.6"/>
+      <stop offset="1.00" stop-color="#3B0764" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="pool" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0.00" stop-color="#C026D3" stop-opacity="0.30"/>
+      <stop offset="0.55" stop-color="#7C3AED" stop-opacity="0.13"/>
+      <stop offset="1.00" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"    stop-color="#000000" stop-opacity="0.95"/>
+      <stop offset="0.45" stop-color="#000000" stop-opacity="0.45"/>
+      <stop offset="1"    stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="tiny" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.4" fill="#000000" opacity="0.22"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" fill="#000000"/>
+  <ellipse cx="260" cy="180" rx="330" ry="190" fill="url(#pool)"/>
+  <ellipse cx="900" cy="170" rx="330" ry="190" fill="url(#pool)"/>
+
+  <g stroke="#A855F7" stroke-width="1" opacity="0.7" filter="url(#tiny)">
+    <line x1="600" y1="212" x2="-540.0" y2="330"/>
+    <line x1="600" y1="212" x2="-436.4" y2="330"/>
+    <line x1="600" y1="212" x2="-332.7" y2="330"/>
+    <line x1="600" y1="212" x2="-229.1" y2="330"/>
+    <line x1="600" y1="212" x2="-125.5" y2="330"/>
+    <line x1="600" y1="212" x2="-21.8" y2="330"/>
+    <line x1="600" y1="212" x2="81.8" y2="330"/>
+    <line x1="600" y1="212" x2="185.5" y2="330"/>
+    <line x1="600" y1="212" x2="289.1" y2="330"/>
+    <line x1="600" y1="212" x2="392.7" y2="330"/>
+    <line x1="600" y1="212" x2="496.4" y2="330"/>
+    <line x1="600" y1="212" x2="600.0" y2="330"/>
+    <line x1="600" y1="212" x2="703.6" y2="330"/>
+    <line x1="600" y1="212" x2="807.3" y2="330"/>
+    <line x1="600" y1="212" x2="910.9" y2="330"/>
+    <line x1="600" y1="212" x2="1014.5" y2="330"/>
+    <line x1="600" y1="212" x2="1118.2" y2="330"/>
+    <line x1="600" y1="212" x2="1221.8" y2="330"/>
+    <line x1="600" y1="212" x2="1325.5" y2="330"/>
+    <line x1="600" y1="212" x2="1429.1" y2="330"/>
+    <line x1="600" y1="212" x2="1532.7" y2="330"/>
+    <line x1="600" y1="212" x2="1636.4" y2="330"/>
+    <line x1="600" y1="212" x2="1740.0" y2="330"/>
+    <line x1="0" y1="213.3" x2="1200" y2="213.3"/>
+    <line x1="0" y1="218.6" x2="1200" y2="218.6"/>
+    <line x1="0" y1="228.8" x2="1200" y2="228.8"/>
+    <line x1="0" y1="244.6" x2="1200" y2="244.6"/>
+    <line x1="0" y1="266.4" x2="1200" y2="266.4"/>
+    <line x1="0" y1="294.8" x2="1200" y2="294.8"/>
+    <line x1="0" y1="330.0" x2="1200" y2="330.0"/>
+  </g>
+  <rect x="0" y="206" width="1200" height="124" fill="url(#fade)"/>
+
+  <text x="96" y="66" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#B9A6DC" letter-spacing="4.5">OVERVIEW</text>
+  <rect x="96" y="76" width="132" height="1.4" fill="#A855F7" opacity="0.7"/>
+
+  <text x="96" y="120" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9F7AEA" letter-spacing="3.4">PUBLIC REPOS</text>
+  <text x="96" y="164" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="900" fill="url(#num)" stroke="#F5F3FF" stroke-width="0.7" paint-order="stroke fill" letter-spacing="-1">5</text>
+  <text x="300" y="120" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9F7AEA" letter-spacing="3.4">COMMITS</text>
+  <text x="300" y="164" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="900" fill="url(#num)" stroke="#F5F3FF" stroke-width="0.7" paint-order="stroke fill" letter-spacing="-1">123</text>
+  <text x="96" y="226" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9F7AEA" letter-spacing="3.4">STARS EARNED</text>
+  <text x="96" y="270" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="900" fill="url(#num)" stroke="#F5F3FF" stroke-width="0.7" paint-order="stroke fill" letter-spacing="-1">2</text>
+  <text x="300" y="226" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9F7AEA" letter-spacing="3.4">FOLLOWERS</text>
+  <text x="300" y="270" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="900" fill="url(#num)" stroke="#F5F3FF" stroke-width="0.7" paint-order="stroke fill" letter-spacing="-1">1</text>
+
+  <text x="712" y="66" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#B9A6DC" letter-spacing="4.5">LANGUAGES</text>
+  <rect x="712" y="76" width="132" height="1.4" fill="#A855F7" opacity="0.7"/>
+  <text x="780" y="106" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B5FD" letter-spacing="1.4">Java</text>
+  <rect x="794" y="96" width="330" height="11" rx="5.5" fill="#1E0736"/>
+  <rect x="794" y="96" width="152.6" height="11" rx="5.5" fill="#D946EF"/>
+  <rect x="796" y="98" width="148.6" height="3" rx="1.5" fill="#FFFFFF" opacity="0.45"/>
+  <text x="1136" y="106" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#9F8DC0">46.2%</text>
+  <text x="780" y="136" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B5FD" letter-spacing="1.4">Python</text>
+  <rect x="794" y="126" width="330" height="11" rx="5.5" fill="#1E0736"/>
+  <rect x="794" y="126" width="73.9" height="11" rx="5.5" fill="#A855F7"/>
+  <rect x="796" y="128" width="69.9" height="3" rx="1.5" fill="#FFFFFF" opacity="0.45"/>
+  <text x="1136" y="136" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#9F8DC0">22.4%</text>
+  <text x="780" y="166" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B5FD" letter-spacing="1.4">TypeScript</text>
+  <rect x="794" y="156" width="330" height="11" rx="5.5" fill="#1E0736"/>
+  <rect x="794" y="156" width="37.4" height="11" rx="5.5" fill="#7C3AED"/>
+  <rect x="796" y="158" width="33.4" height="3" rx="1.5" fill="#FFFFFF" opacity="0.45"/>
+  <text x="1136" y="166" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#9F8DC0">11.3%</text>
+  <text x="780" y="196" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B5FD" letter-spacing="1.4">JavaScript</text>
+  <rect x="794" y="186" width="330" height="11" rx="5.5" fill="#1E0736"/>
+  <rect x="794" y="186" width="36.2" height="11" rx="5.5" fill="#8B5CF6"/>
+  <rect x="796" y="188" width="32.2" height="3" rx="1.5" fill="#FFFFFF" opacity="0.45"/>
+  <text x="1136" y="196" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#9F8DC0">11.0%</text>
+  <text x="780" y="226" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B5FD" letter-spacing="1.4">CSS</text>
+  <rect x="794" y="216" width="330" height="11" rx="5.5" fill="#1E0736"/>
+  <rect x="794" y="216" width="21.2" height="11" rx="5.5" fill="#6366F1"/>
+  <rect x="796" y="218" width="17.2" height="3" rx="1.5" fill="#FFFFFF" opacity="0.45"/>
+  <text x="1136" y="226" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#9F8DC0">6.4%</text>
+  <text x="780" y="256" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C4B5FD" letter-spacing="1.4">HTML</text>
+  <rect x="794" y="246" width="330" height="11" rx="5.5" fill="#1E0736"/>
+  <rect x="794" y="246" width="8.7" height="11" rx="5.5" fill="#C026D3"/>
+  <rect x="796" y="248" width="4.7" height="3" rx="1.5" fill="#FFFFFF" opacity="0.45"/>
+  <text x="1136" y="256" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#9F8DC0">2.6%</text>
+
+  <g fill="none" stroke="#A855F7" stroke-width="1.6" opacity="0.45">
+    <path d="M 20 50 L 20 20 L 50 20"/>
+    <path d="M 1150 20 L 1180 20 L 1180 50"/>
+    <path d="M 20 280 L 20 310 L 50 310"/>
+    <path d="M 1150 310 L 1180 310 L 1180 280"/>
+  </g>
+
+  <rect width="1200" height="330" fill="url(#scan)"/>
+  <rect x="0" y="326" width="1200" height="4" fill="url(#irid)"/>
+</svg>

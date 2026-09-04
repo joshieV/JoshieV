@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 34" width="1200" height="34" role="img" aria-label="">
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.00" stop-color="#FFFFFF"/>
+      <stop offset="0.14" stop-color="#F3E8FF"/>
+      <stop offset="0.30" stop-color="#C4A5FF"/>
+      <stop offset="0.46" stop-color="#7C3AED"/>
+      <stop offset="0.50" stop-color="#2E1065"/>
+      <stop offset="0.54" stop-color="#4C1D95"/>
+      <stop offset="0.66" stop-color="#D946EF"/>
+      <stop offset="0.80" stop-color="#F0ABFC"/>
+      <stop offset="0.90" stop-color="#FFFFFF"/>
+      <stop offset="1.00" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <linearGradient id="irid" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.00" stop-color="#3B0764" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#4F46E5" stop-opacity="0.8"/>
+      <stop offset="0.38" stop-color="#A855F7" stop-opacity="0.95"/>
+      <stop offset="0.54" stop-color="#D946EF" stop-opacity="1"/>
+      <stop offset="0.72" stop-color="#7C3AED" stop-opacity="0.9"/>
+      <stop offset="0.88" stop-color="#4F46E5" stop-opacity="0.6"/>
+      <stop offset="1.00" stop-color="#3B0764" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="bevel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.00" stop-color="#FFFFFF"/>
+      <stop offset="0.30" stop-color="#D8B4FE"/>
+      <stop offset="0.52" stop-color="#6D28D9"/>
+      <stop offset="0.55" stop-color="#1E0736"/>
+      <stop offset="0.80" stop-color="#7C3AED"/>
+      <stop offset="1.00" stop-color="#E9D5FF"/>
+    </linearGradient>
+
+    <radialGradient id="bloomA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0.00" stop-color="#C026D3" stop-opacity="0.55"/>
+      <stop offset="0.35" stop-color="#7C3AED" stop-opacity="0.30"/>
+      <stop offset="0.70" stop-color="#4C1D95" stop-opacity="0.11"/>
+      <stop offset="1.00" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="flareH" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#F0ABFC" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.85"/>
+      <stop offset="1"   stop-color="#F0ABFC" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="flareV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#F0ABFC" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.7"/>
+      <stop offset="1"   stop-color="#F0ABFC" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="gridFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"    stop-color="#000000" stop-opacity="0.95"/>
+      <stop offset="0.45" stop-color="#000000" stop-opacity="0.45"/>
+      <stop offset="1"    stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="bloom" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="20" result="b"/>
+      <feComponentTransfer in="b">
+        <feFuncR type="linear" slope="1.75"/>
+        <feFuncG type="linear" slope="0.45"/>
+        <feFuncB type="linear" slope="2.30"/>
+      </feComponentTransfer>
+    </filter>
+
+    <filter id="softglow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <filter id="midglow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <filter id="tinyglow" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.4" fill="#000000" opacity="0.22"/>
+    </pattern>
+
+    <path id="spark" d="M 0 -11 C 1.7 -3.7, 3.7 -1.7, 11 0 C 3.7 1.7, 1.7 3.7, 0 11
+                        C -1.7 3.7, -3.7 1.7, -11 0 C -3.7 -1.7, -1.7 -3.7, 0 -11 Z"/>
+</defs>
+  <rect x="0" y="12" width="1200" height="10" rx="5" fill="url(#irid)"
+        filter="url(#tinyglow)" opacity="0.35"/>
+  <rect x="0" y="13" width="1200" height="8" rx="4" fill="url(#bevel)" opacity="0.9"/>
+  <rect x="0" y="14" width="1200" height="1.4" fill="#FFFFFF" opacity="0.55"/>
+  <rect x="0" y="12" width="1200" height="10" fill="url(#scan)" opacity="0.5"/>
+  <g transform="translate(300,17) scale(0.5)" fill="#FFFFFF">
+    <use href="#spark" filter="url(#tinyglow)"/>
+    <use href="#spark"/>
+    <animate attributeName="opacity" values="0.85;0.10;0.85" dur="3.3s" begin="-0.4s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(600,17) scale(0.62)" fill="#FFFFFF">
+    <use href="#spark" filter="url(#tinyglow)"/>
+    <use href="#spark"/>
+    <animate attributeName="opacity" values="0.9;0.11;0.9" dur="4.0s" begin="-1.6s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(900,17) scale(0.46)" fill="#FFFFFF">
+    <use href="#spark" filter="url(#tinyglow)"/>
+    <use href="#spark"/>
+    <animate attributeName="opacity" values="0.75;0.09;0.75" dur="3.6s" begin="-2.4s" repeatCount="indefinite"/>
+  </g>
+</svg>
