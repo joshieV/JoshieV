@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Joshua V, Software Engineering, United Kingdom" />
+<img src="assets/header.svg?v=2" width="100%" alt="Joshua V, Software Engineering, United Kingdom" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg?v=2" width="100%" alt="" />
 
 ## About
 
@@ -33,7 +33,7 @@ public class Joshua {
 }
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg?v=2" width="100%" alt="" />
 
 ## Projects
 
@@ -44,7 +44,7 @@ public class Joshua {
 | **[Stopwatch_and_Clock_App](https://github.com/joshieV/Stopwatch_and_Clock_App)** | Desktop stopwatch and clock with a clean UI | `Python` |
 | **[helloworld-calculator](https://github.com/joshieV/helloworld-calculator)** | The world's most useless calculator, built for pure fun | `JavaScript` `HTML` `CSS` |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg?v=2" width="100%" alt="" />
 
 ## Stack
 
@@ -74,15 +74,15 @@ public class Joshua {
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg?v=2" width="100%" alt="" />
 
 ## Stats
 
-<img src="assets/stats.svg" width="100%" alt="Public repos, commits, stars, followers and language breakdown" />
+<img src="assets/stats.svg?v=2" width="100%" alt="Public repos, commits, stars, followers and language breakdown" />
 
 <sub>Rebuilt daily from the GitHub API by <a href="/.github/workflows/stats.yml">a small workflow</a>.</sub>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/divider.svg?v=2" width="100%" alt="" />
 
 ## Contact
 
@@ -100,4 +100,4 @@ If you're building something interesting and want a hand, message me.
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by, github.com/joshieV" />
+<img src="assets/footer.svg?v=2" width="100%" alt="Thanks for stopping by, github.com/joshieV" />
