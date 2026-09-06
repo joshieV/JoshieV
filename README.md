@@ -40,6 +40,7 @@ public class Joshua {
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
 | **[discord-clone](https://github.com/joshieV/discord-clone)** | A Discord-style chat app, my biggest build so far | `Java` `TypeScript` `React` |
+| **[discord-bot](https://github.com/joshieV/discord-bot)** | A growing Discord bot with minigames, utility commands, and fun interactions. Built with `discord.py` | `Python` |
 | **[neetcode-submissions](https://github.com/joshieV/neetcode-submissions)** | Every NeetCode.io problem I've solved, kept public | `Java` `Python` |
 | **[Stopwatch_and_Clock_App](https://github.com/joshieV/Stopwatch_and_Clock_App)** | Desktop stopwatch and clock with a clean UI | `Python` |
 | **[helloworld-calculator](https://github.com/joshieV/helloworld-calculator)** | The world's most useless calculator, built for pure fun | `JavaScript` `HTML` `CSS` |
