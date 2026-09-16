@@ -82,8 +82,6 @@ public class Joshua {
 
 <img src="assets/stats.svg?v=2" width="100%" alt="Public repos, commits, stars, followers and language breakdown" />
 
-<sub>Rebuilt daily from the GitHub API by <a href="/.github/workflows/stats.yml">a small workflow</a>.</sub>
-
 <img src="assets/divider.svg?v=2" width="100%" alt="" />
 
 ## Contact
