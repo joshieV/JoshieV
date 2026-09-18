@@ -59,7 +59,6 @@ public class Joshua {
 **Front-end**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="React, Tailwind CSS" />
-<img src="assets/javafx.svg" width="48" height="48" alt="JavaFX" />
 
 **Back-end &amp; data**
 
