@@ -77,7 +77,7 @@ public class Joshua {
 
 <img src="assets/divider.svg?v=2" width="100%" alt="" />
 
-## Stats
+## My Stats
 
 <img src="assets/stats.svg?v=2" width="100%" alt="Public repos, commits, stars, followers and language breakdown" />
 
