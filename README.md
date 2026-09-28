@@ -85,7 +85,7 @@ public class Joshua {
 
 ## Contact
 
-Easiest ways to reach me:
+Reach me here:
 
 - **Email** &nbsp;[joshievaccaro@gmail.com](mailto:joshievaccaro@gmail.com)
 - **LinkedIn** &nbsp;[joshuawillis06](https://www.linkedin.com/in/joshuawillis06/)
