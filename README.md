@@ -90,9 +90,7 @@ Reach me here:
 - **Email** &nbsp;[joshievaccaro@gmail.com](mailto:joshievaccaro@gmail.com)
 - **LinkedIn** &nbsp;[joshuawillis06](https://www.linkedin.com/in/joshuawillis06/)
 - **LeetCode** &nbsp;[joshiepz](https://leetcode.com/u/joshiepz/)
-
-If you're building something interesting and want a hand, contact me.
-
+  
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=joshieV&style=flat-square&color=A855F7&labelColor=2E1065&label=PROFILE+VIEWS" alt="Profile views" />
