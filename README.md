@@ -88,7 +88,6 @@ public class Joshua {
 Reach me here:
 
 - **Email** &nbsp;[joshievaccaro@gmail.com](mailto:joshievaccaro@gmail.com)
-- **LinkedIn** &nbsp;[joshuawillis06](https://www.linkedin.com/in/joshuawillis06/)
 - **LeetCode** &nbsp;[joshiepz](https://leetcode.com/u/joshiepz/)
   
 <div align="center">
