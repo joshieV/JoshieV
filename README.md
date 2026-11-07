@@ -54,7 +54,7 @@ public class Joshua {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css&theme=dark" alt="Java, Python, C++, JavaScript, TypeScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,bash&theme=dark" alt="Java, Python, C++, JavaScript, TypeScript, HTML, CSS" />
 
 **Front-end**
 
